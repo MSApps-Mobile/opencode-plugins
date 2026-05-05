@@ -2,9 +2,9 @@
 
 > **If you find these plugins useful, please ⭐ star this repo** — it helps other developers discover the marketplace and motivates us to keep building!
 
-**The largest open-source plugin marketplace for OpenCode.** 35+ production-ready plugins converted from the Claude plugin ecosystem — built on the SOSA™ security framework.
+**The largest open-source plugin marketplace for OpenCode.** 32+ production-ready plugins converted from the Claude plugin ecosystem — built on the SOSA™ security framework.
 
-## Quick Start
+## 🚀 Quick Start
 
 ### OpenCode (CLI)
 
@@ -17,7 +17,7 @@
   "plugin": ["opencode-google-drive", "opencode-toggl-tracker"]
 }
 
-# 2. Or install from npm
+# 2. Or install from npm (if published)
 npm install -g opencode-google-drive opencode-toggl-tracker
 
 # 3. Just talk to OpenCode
@@ -32,70 +32,77 @@ npm install -g opencode-google-drive opencode-toggl-tracker
 
 ---
 
-## Available Plugins
-
-| Plugin | What it does | Install |
-|--------|-------------|---------|
-| **google-drive** | Upload files to Google Drive — unlimited, free | `opencode-google-drive` |
-| **toggl-tracker** | Track time with Toggl — start/stop timers, reports | `opencode-toggl-tracker` |
-| **youtube-transcriber** | Transcribe YouTube videos & playlists — no API key | `opencode-youtube` |
-| **notion-memory** | Long-term memory in Notion + 4 Anthropic skills | `opencode-notion-memory` |
-| **whatsapp** | Connect OpenCode to WhatsApp — search, read, send | `opencode-whatsapp` |
-| **wordpress** | Manage WordPress — posts, users, WooCommerce | `opencode-wordpress` |
-| **apollo** | Prospect leads & enrich contacts with Apollo.io | `opencode-apollo` |
-| **session-backup** | Daily backups of sessions, skills & configs | `opencode-session-backup` |
-
-*(Full list of 35+ plugins below)*
-
----
-
-## Plugin Categories
+## 📦 Available Plugins
 
 ### Productivity & Cloud
-- google-drive
-- toggl-tracker
-- session-backup
-- mac-disk-cleaner
+| Plugin | What it does | Install |
+|--------|-------------|---------|
+| **drive** | Upload files to Google Drive — unlimited, free | `opencode-drive` |
+| **toggl-tracker** | Track time with Toggl — start/stop timers, reports | `opencode-toggl-tracker` |
+| **session-backup** | Daily backups of sessions, skills & configs | `opencode-session-backup` |
+| **mac-disk-cleaner** | Reclaim disk space on macOS — clean caches, find bloat | `opencode-mac-disk-cleaner` |
 
 ### Communication
-- whatsapp
-- x-content-intelligence
+| Plugin | What it does | Install |
+|--------|-------------|---------|
+| **whatsapp-mcp** | Connect OpenCode to WhatsApp — search, read, send | `opencode-whatsapp-mcp` |
+| **x-content-intelligence** | Scrape X/Twitter for insights & generate content | `opencode-x-content-intelligence` |
 
 ### Development Tools
-- swift-lsp
-- kotlin-lsp
-- claude-md-composer (now opencode-md-composer)
+| Plugin | What it does | Install |
+|--------|-------------|---------|
+| **swift-lsp** | Real-time Swift code intelligence — diagnostics, go-to-definition | `opencode-swift-lsp` |
+| **kotlin-lsp** | Real-time Kotlin code intelligence — diagnostics, hover types | `opencode-kotlin-lsp` |
+| **md-composer** | Audit, compose, and refactor CLAUDE.md/AGENTS.md files | `opencode-md-composer` |
 
 ### Security & Compliance
-- sosa-compliance-checker
-- sosa-governor
-- sosa-orchestrator
-- token-efficiency-audit
+| Plugin | What it does | Install |
+|--------|-------------|---------|
+| **sosa-compliance-checker** | Audit your entire plugin ecosystem against SOSA™ | `opencode-sosa-compliance-checker` |
+| **sosa-governor** | Real-time SOSA governance — classifies, gates, logs MCP tool calls | `opencode-sosa-governor` |
+| **sosa-orchestrator** | Token-aware task prioritization and budget management | `opencode-sosa-orchestrator` |
+| **token-efficiency-audit** | Find and fix token waste — typical savings: 20-50% | `opencode-token-efficiency-audit` |
 
 ### AI & Memory
-- notion-memory
-- cowork-mem (now opencode-mem)
-- skill-campfire
+| Plugin | What it does | Install |
+|--------|-------------|---------|
+| **notion-memory** | Long-term memory in Notion + 4 Anthropic skills | `opencode-notion-memory` |
+| **cowork-mem** | Persistent memory across OpenCode sessions | `opencode-cowork-mem` |
+| **skill-campfire** | Turn your skills into characters who hang out around a campfire | `opencode-skill-campfire` |
 
 ### Web & Scraping
-- apify-scraper
-- youtube-transcriber
-- x-content-intelligence
+| Plugin | What it does | Install |
+|--------|-------------|---------|
+| **apify-scraper** | Full Apify web scraping — run Actors, manage datasets | `opencode-apify-scraper` |
+| **youtube-transcriber** | Transcribe YouTube videos & playlists — no API key | `opencode-youtube-transcriber` |
 
 ### Infrastructure
-- gcloud-cli-health-check
-- github-cli-health-check
-- vm-disk-cleanup
-- fix-chrome-connection
-- cowork-session-fixer
+| Plugin | What it does | Install |
+|--------|-------------|---------|
+| **gcloud-cli-health-check** | Scheduled health check for Google Cloud CLI | `opencode-gcloud-cli-health-check` |
+| **github-cli-health-check** | Scheduled health check for GitHub CLI | `opencode-github-cli-health-check` |
+| **vm-disk-cleanup** | Fix disk-full errors in VMs & sandboxes | `opencode-vm-disk-cleanup` |
+| **fix-chrome-connection** | Fix stale OpenCode in Chrome connections | `opencode-fix-chrome-connection` |
+| **cowork-session-fixer** | Fix stuck OpenCode sessions — automated 5-tier recovery | `opencode-cowork-session-fixer` |
 
 ### E-commerce
-- wordpress
-- opsagent-shopify
+| Plugin | What it does | Install |
+|--------|-------------|---------|
+| **wordpress-mcp** | Manage WordPress — posts, users, WooCommerce | `opencode-wordpress-mcp` |
+| **opsagent-shopify** | Shopify integration for OpsAgent ecosystem | `opencode-opsagent-shopify` |
+
+### Other
+| Plugin | What it does | Install |
+|--------|-------------|---------|
+| **apollo** | Prospect leads & enrich contacts with Apollo.io | `opencode-apollo` |
+| **digital-presence** | Manage your digital presence across platforms | `opencode-digital-presence` |
+| **rtl-chat** / **rtl-chat-fixer** | Fix jumbled RTL/LTR text mixing (Hebrew, Arabic) | `opencode-rtl-chat-fixer` |
+| **zoho-mail-health** | Daily health check for Zoho Mail accounts | `opencode-zoho-mail-health` |
+| **agents-md-optimizer** | Optimize AGENTS.md files for better AI performance | `opencode-agents-md-optimizer` |
 
 ---
 
-## Setup Guides
+## 🔧 Setup Guides
 
 <details>
 <summary><strong>Google Drive Upload</strong></summary>
@@ -134,9 +141,22 @@ cd ~/whatsapp-mcp/whatsapp-bridge && go build -o whatsapp-bridge && ./whatsapp-b
 Scan the QR code with WhatsApp on first run.
 </details>
 
+<details>
+<summary><strong>WordPress MCP</strong></summary>
+
+Set environment variables after installing:
+
+| Variable | Description |
+|----------|-------------|
+| `WP_MCP_URL` | Your site's MCP endpoint (`https://yoursite.com/wp-json/mcp/v1`) |
+| `WP_MCP_AUTH` | Base64-encoded `username:application-password` |
+
+Requires [WordPress MCP Adapter](https://developer.wordpress.org/news/2026/02/from-abilities-to-ai-agents-introducing-the-wordpress-mcp-adapter/) on WordPress 6.9+.
+</details>
+
 ---
 
-## Development
+## 🛠️ Development
 
 ### Plugin Structure
 
@@ -184,7 +204,7 @@ export const MyPlugin = async ({ project, client, $, directory, worktree }) => {
 
 ---
 
-## Contributing
+## 🤝 Contributing
 
 We welcome contributions! 
 
@@ -195,7 +215,7 @@ We welcome contributions!
 
 ---
 
-## Star History
+## ⭐ Star History
 
 If this project is useful to you, consider giving it a ⭐ — it helps others discover these tools.
 
@@ -203,7 +223,7 @@ If this project is useful to you, consider giving it a ⭐ — it helps others d
 
 ---
 
-## Support
+## 📞 Support
 
 - **Issues:** [GitHub Issues](https://github.com/MSApps-Mobile/opencode-plugins/issues)
 - **Email:** michal@msapps.mobi
