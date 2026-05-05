@@ -1,9 +1,9 @@
 {
-  "name": "youtube-transcriber",
+  "name": "github-cli-health-check",
   "version": "1.0.0",
-  "description": "Converted from Claude plugin: youtube-transcriber. OpenCode plugin.",
+  "description": "Converted from Claude plugin: github-cli-health-check. OpenCode plugin.",
   "main": "index.js",
-  "keywords": ["opencode", "plugin", "youtube transcriber"],
+  "keywords": ["opencode", "plugin", "github cli health check"],
   "author": "MSApps <michal@msapps.mobi>",
   "license": "MIT",
   "opencode": {

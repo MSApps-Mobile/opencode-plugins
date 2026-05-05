@@ -1,9 +1,9 @@
 {
-  "name": "youtube-transcriber",
+  "name": "agents-md-optimizer",
   "version": "1.0.0",
-  "description": "Converted from Claude plugin: youtube-transcriber. OpenCode plugin.",
+  "description": "Converted from Claude plugin: agents-md-optimizer. OpenCode plugin.",
   "main": "index.js",
-  "keywords": ["opencode", "plugin", "youtube transcriber"],
+  "keywords": ["opencode", "plugin", "agents md optimizer"],
   "author": "MSApps <michal@msapps.mobi>",
   "license": "MIT",
   "opencode": {

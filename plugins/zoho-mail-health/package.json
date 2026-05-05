@@ -1,9 +1,9 @@
 {
-  "name": "youtube-transcriber",
+  "name": "zoho-mail-health",
   "version": "1.0.0",
-  "description": "Converted from Claude plugin: youtube-transcriber. OpenCode plugin.",
+  "description": "Converted from Claude plugin: zoho-mail-health. OpenCode plugin.",
   "main": "index.js",
-  "keywords": ["opencode", "plugin", "youtube transcriber"],
+  "keywords": ["opencode", "plugin", "zoho mail health"],
   "author": "MSApps <michal@msapps.mobi>",
   "license": "MIT",
   "opencode": {

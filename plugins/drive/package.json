@@ -1,9 +1,9 @@
 {
-  "name": "youtube-transcriber",
+  "name": "google-drive",
   "version": "1.0.0",
-  "description": "Converted from Claude plugin: youtube-transcriber. OpenCode plugin.",
+  "description": "Converted from Claude plugin: google-drive-upload. OpenCode plugin.",
   "main": "index.js",
-  "keywords": ["opencode", "plugin", "youtube transcriber"],
+  "keywords": ["opencode", "plugin", "google drive upload"],
   "author": "MSApps <michal@msapps.mobi>",
   "license": "MIT",
   "opencode": {

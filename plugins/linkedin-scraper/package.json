@@ -1,9 +1,9 @@
 {
-  "name": "youtube-transcriber",
+  "name": "linkedin-scraper",
   "version": "1.0.0",
-  "description": "Converted from Claude plugin: youtube-transcriber. OpenCode plugin.",
+  "description": "Converted from Claude plugin: linkedin-scraper. OpenCode plugin.",
   "main": "index.js",
-  "keywords": ["opencode", "plugin", "youtube transcriber"],
+  "keywords": ["opencode", "plugin", "linkedin scraper"],
   "author": "MSApps <michal@msapps.mobi>",
   "license": "MIT",
   "opencode": {

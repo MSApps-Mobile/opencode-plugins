@@ -1,9 +1,9 @@
 {
-  "name": "youtube-transcriber",
+  "name": "mac-disk-cleaner",
   "version": "1.0.0",
-  "description": "Converted from Claude plugin: youtube-transcriber. OpenCode plugin.",
+  "description": "Converted from Claude plugin: mac-disk-cleaner. OpenCode plugin.",
   "main": "index.js",
-  "keywords": ["opencode", "plugin", "youtube transcriber"],
+  "keywords": ["opencode", "plugin", "mac disk cleaner"],
   "author": "MSApps <michal@msapps.mobi>",
   "license": "MIT",
   "opencode": {

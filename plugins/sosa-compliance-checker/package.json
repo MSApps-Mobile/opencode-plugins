@@ -1,9 +1,9 @@
 {
-  "name": "youtube-transcriber",
+  "name": "sosa-compliance-checker",
   "version": "1.0.0",
-  "description": "Converted from Claude plugin: youtube-transcriber. OpenCode plugin.",
+  "description": "Converted from Claude plugin: sosa-compliance-checker. OpenCode plugin.",
   "main": "index.js",
-  "keywords": ["opencode", "plugin", "youtube transcriber"],
+  "keywords": ["opencode", "plugin", "sosa compliance checker"],
   "author": "MSApps <michal@msapps.mobi>",
   "license": "MIT",
   "opencode": {

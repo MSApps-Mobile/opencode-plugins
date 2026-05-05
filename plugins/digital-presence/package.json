@@ -1,9 +1,9 @@
 {
-  "name": "youtube-transcriber",
+  "name": "digital-presence",
   "version": "1.0.0",
-  "description": "Converted from Claude plugin: youtube-transcriber. OpenCode plugin.",
+  "description": "Converted from Claude plugin: digital-presence. OpenCode plugin.",
   "main": "index.js",
-  "keywords": ["opencode", "plugin", "youtube transcriber"],
+  "keywords": ["opencode", "plugin", "digital presence"],
   "author": "MSApps <michal@msapps.mobi>",
   "license": "MIT",
   "opencode": {

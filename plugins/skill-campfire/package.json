@@ -1,9 +1,9 @@
 {
-  "name": "opencode-google-drive",
+  "name": "skill-campfire",
   "version": "1.0.0",
-  "description": "Upload files to Google Drive via Google Apps Script - OpenCode plugin",
+  "description": "Converted from Claude plugin: skill-campfire. OpenCode plugin.",
   "main": "index.js",
-  "keywords": ["opencode", "plugin", "google-drive", "upload"],
+  "keywords": ["opencode", "plugin", "skill campfire"],
   "author": "MSApps <michal@msapps.mobi>",
   "license": "MIT",
   "opencode": {

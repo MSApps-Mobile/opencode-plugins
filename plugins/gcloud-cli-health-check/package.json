@@ -1,9 +1,9 @@
 {
-  "name": "youtube-transcriber",
+  "name": "gcloud-cli-health-check",
   "version": "1.0.0",
-  "description": "Converted from Claude plugin: youtube-transcriber. OpenCode plugin.",
+  "description": "Converted from Claude plugin: gcloud-cli-health-check. OpenCode plugin.",
   "main": "index.js",
-  "keywords": ["opencode", "plugin", "youtube transcriber"],
+  "keywords": ["opencode", "plugin", "gcloud cli health check"],
   "author": "MSApps <michal@msapps.mobi>",
   "license": "MIT",
   "opencode": {

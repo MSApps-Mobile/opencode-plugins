@@ -1,9 +1,9 @@
 {
-  "name": "youtube-transcriber",
+  "name": "notion-memory",
   "version": "1.0.0",
-  "description": "Converted from Claude plugin: youtube-transcriber. OpenCode plugin.",
+  "description": "Converted from Claude plugin: notion-memory. OpenCode plugin.",
   "main": "index.js",
-  "keywords": ["opencode", "plugin", "youtube transcriber"],
+  "keywords": ["opencode", "plugin", "notion memory"],
   "author": "MSApps <michal@msapps.mobi>",
   "license": "MIT",
   "opencode": {

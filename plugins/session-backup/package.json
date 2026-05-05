@@ -1,9 +1,9 @@
 {
-  "name": "youtube-transcriber",
+  "name": "session-backup",
   "version": "1.0.0",
-  "description": "Converted from Claude plugin: youtube-transcriber. OpenCode plugin.",
+  "description": "Converted from Claude plugin: session-backup. OpenCode plugin.",
   "main": "index.js",
-  "keywords": ["opencode", "plugin", "youtube transcriber"],
+  "keywords": ["opencode", "plugin", "session backup"],
   "author": "MSApps <michal@msapps.mobi>",
   "license": "MIT",
   "opencode": {

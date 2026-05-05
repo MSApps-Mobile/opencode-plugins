@@ -1,9 +1,9 @@
 {
-  "name": "opencode-toggl-tracker",
+  "name": "toggl-time-tracker",
   "version": "1.0.0",
-  "description": "Track time with Toggl - start/stop timers, reports. OpenCode plugin.",
+  "description": "Converted from Claude plugin: toggl-time-tracker. OpenCode plugin.",
   "main": "index.js",
-  "keywords": ["opencode", "plugin", "toggl", "time-tracking", "productivity"],
+  "keywords": ["opencode", "plugin", "toggl time tracker"],
   "author": "MSApps <michal@msapps.mobi>",
   "license": "MIT",
   "opencode": {
@@ -13,6 +13,5 @@
       "compliance": "full",
       "level": "supervised"
     }
-  },
-  "dependencies": {}
+  }
 }

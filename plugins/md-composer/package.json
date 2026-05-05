@@ -1,9 +1,9 @@
 {
-  "name": "youtube-transcriber",
+  "name": "opencode-md-composer",
   "version": "1.0.0",
-  "description": "Converted from Claude plugin: youtube-transcriber. OpenCode plugin.",
+  "description": "Converted from Claude plugin: claude-md-composer. OpenCode plugin.",
   "main": "index.js",
-  "keywords": ["opencode", "plugin", "youtube transcriber"],
+  "keywords": ["opencode", "plugin", "claude md composer"],
   "author": "MSApps <michal@msapps.mobi>",
   "license": "MIT",
   "opencode": {
