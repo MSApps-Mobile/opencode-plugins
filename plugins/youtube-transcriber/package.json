@@ -1,0 +1,21 @@
+{
+  "name": "opencode-youtube-transcriber",
+  "version": "1.0.0",
+  "description": "Transcribe YouTube videos and playlists - no API key required. OpenCode plugin.",
+  "main": "index.js",
+  "keywords": ["opencode", "plugin", "youtube", "transcription", "video"],
+  "author": "MSApps <michal@msapps.mobi>",
+  "license": "MIT",
+  "opencode": {
+    "plugin": true,
+    "compatibility": ["opencode"],
+    "sosa": {
+      "compliance": "full",
+      "level": "open"
+    }
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "yt-dlp": "Recommended: brew install yt-dlp"
+  }
+}

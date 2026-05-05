@@ -1,0 +1,24 @@
+{
+  "name": "opencode-plugins",
+  "version": "1.0.0",
+  "description": "OpenCode plugins converted from MSApps Claude Plugins ecosystem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "convert": "node scripts/convert-to-opencode.js"
+  },
+  "keywords": ["opencode", "plugins", "opencode-plugins", "ai", "coding-agent"],
+  "author": "MSApps <michal@msapps.mobi>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MSApps-Mobile/opencode-plugins.git"
+  },
+  "opencode": {
+    "plugins": [
+      "./plugins/google-drive",
+      "./plugins/toggl-tracker",
+      "./plugins/youtube-transcriber"
+    ]
+  }
+}

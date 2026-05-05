@@ -1,0 +1,17 @@
+{
+  "name": "opencode-google-drive",
+  "version": "1.0.0",
+  "description": "Upload files to Google Drive via Google Apps Script - OpenCode plugin",
+  "main": "index.js",
+  "keywords": ["opencode", "plugin", "google-drive", "upload"],
+  "author": "MSApps <michal@msapps.mobi>",
+  "license": "MIT",
+  "opencode": {
+    "plugin": true,
+    "compatibility": ["opencode"],
+    "sosa": {
+      "compliance": "full",
+      "level": "supervised"
+    }
+  }
+}
